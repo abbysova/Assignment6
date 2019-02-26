@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment6</string>
+    <string name="Holly_label">Holly</string>
+    <string name="Korb_label">Korbyn</string>
+    <string name="Abbi_label">Abbi</string>
+    <string name="Holly_number">2185552000</string>
+    <string name="Korb_number">2185553000</string>
+    <string name="Abbi_number">2185554000</string>
+</resources>
